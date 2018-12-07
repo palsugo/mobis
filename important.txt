@@ -11,3 +11,4 @@ GN7
 push1
 push2
 left
+right
